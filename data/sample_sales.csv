@@ -1,0 +1,11 @@
+﻿order_id,customer_id,region,order_date,amount,category
+1,C001,West,2025-12-01,1200,Electronics
+2,C002,North,2025-12-02,450,Groceries
+3,C001,West,2025-12-05,800,Electronics
+4,C003,South,2025-12-06,1500,Fashion
+5,C004,East,2025-12-06,300,Groceries
+6,C002,North,2025-12-10,900,Electronics
+7,C005,West,2025-12-12,650,Fashion
+8,C001,West,2025-12-15,1100,Electronics
+9,C006,South,2025-12-18,200,Groceries
+10,C003,South,2025-12-20,1700,Fashion
